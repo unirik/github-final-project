@@ -8,4 +8,4 @@
    * **`t`** `[Number]`: time period in years
    * **`r`** `[Number]`: annual rate of interest
 ### 📤 Outputs (Respuesta / Salida)
-   * **`simple interest` = p*t*r/100
+   * **`simple interest`** = p*t*r/100
